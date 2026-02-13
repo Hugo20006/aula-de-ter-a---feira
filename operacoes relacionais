@@ -1,0 +1,18 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		logico igual, diferente, maior, menor, maior_igual, menor_igual
+		diferente = (5*10!=50)
+		igual = 10==10
+		maior = 10>9
+	//é , menor ou é falso
+		menor = 1000<1001
+		escreva (menor)
+		// é maio/r ou é igual
+		maior_igual = 7>=4
+		menor_igual = 8<=10
+		escreva(maior_igual)
+	}
+}
